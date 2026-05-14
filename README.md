@@ -35,12 +35,7 @@ CGPA: 8.22/10
 - Channel reduction and signal reconstruction
 - Temporal neural signal modeling
 
-### Data Scientist Intern — Ashok Leyland
-- Built table extraction pipeline using YOLOv8 + OCR
-- Automated document parsing and metadata generation
-- Worked on AI-based information retrieval systems
 
----
 
 ## Publications
 
