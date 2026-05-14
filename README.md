@@ -1,4 +1,4 @@
-# Ganesh Mouli
+# Ganesh Mouli Janipireddy
 
 ### AI Researcher — Deep Learning & Computer Vision  
 *Indian Institute of Technology (IIT) Tirupati, India*  
