@@ -1,16 +1,76 @@
-## Hi there 👋
+# Ganesh Mouli
 
-<!--
-**ganesh-mouli976/ganesh-mouli976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Researcher — Deep Learning & Computer Vision  
+*Indian Institute of Technology (IIT) Tirupati, India*  
+*Project Associate at IISc Bangalore*
 
-Here are some ideas to get you started:
+📧 Email: janipireddyganesh@gmail.com  
+🔗 [GitHub](https://github.com/jgm9768) | [LinkedIn](YOUR_LINKEDIN_LINK)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Research Interests
+
+- Deep Learning
+- Computer Vision
+- EEG Signal Forecasting
+- Object Detection & Tracking
+- Medical AI
+- Aerial Imagery Analysis
+
+---
+
+## Education
+
+### B.Tech — Electrical Engineering  
+**Indian Institute of Technology Tirupati**  
+CGPA: 8.22/10
+
+---
+
+## Experience
+
+### Project Associate — IISc Bangalore
+- EEG signal forecasting using deep learning
+- Channel reduction and signal reconstruction
+- Temporal neural signal modeling
+
+### Data Scientist Intern — Ashok Leyland
+- Built table extraction pipeline using YOLOv8 + OCR
+- Automated document parsing and metadata generation
+- Worked on AI-based information retrieval systems
+
+---
+
+## Publications
+
+### SAFE-Net: Scale-Aware Flood Enhancement for Aerial Person Detection
+Accepted at CVPR 2026 Workshop
+
+---
+
+## Technical Skills
+
+**Languages:**  
+Python, C++, SQL, MATLAB
+
+**Frameworks & Tools:**  
+PyTorch, TensorFlow, OpenCV, YOLOv8, FastAPI
+
+---
+
+## Projects
+
+- EEG Signal Forecasting
+- Flood Disaster Person Detection
+- FishEye Camera Object Detection
+- Food Delivery Chatbot
+
+---
+
+## Achievements
+
+- AI City Challenge @ CVPR 2024 — Ranked 12th
+- Silver Medal — INTRA IIT Shotput
+
+---
