@@ -15,7 +15,7 @@
 - Computer Vision
 - EEG Signal Forecasting
 - Object Detection & Tracking
-- Medical AI
+- AI for Healthcare
 - Aerial Imagery Analysis
 
 ---
