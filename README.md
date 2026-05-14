@@ -66,6 +66,5 @@ PyTorch, TensorFlow, OpenCV, YOLOv8, FastAPI
 ## Achievements
 
 - AI City Challenge @ CVPR 2024 — Ranked 12th
-- Silver Medal — INTRA IIT Shotput
 
 ---
