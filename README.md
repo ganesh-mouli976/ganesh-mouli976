@@ -12,7 +12,7 @@
 
 ## Research Interests
 
--Medical Imaging 
+- Medical Imaging  
 - Deep Learning
 - Computer Vision
 - EEG Signal Forecasting
