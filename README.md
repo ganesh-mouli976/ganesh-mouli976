@@ -1,17 +1,18 @@
 # Ganesh Mouli Janipireddy
 
-### AI Researcher — Deep Learning & Computer Vision  
+### AI Researcher — Medical Imaging , Signal Processing , Deep Learning & Computer Vision  
 *M.tech(Research) student at MIG,CDS,IISc Bangalore*
 *Indian Institute of Technology (IIT) Tirupati, India*  
 *Project Associate at IISc Bangalore*
 
 📧 Email: janipireddyganesh@gmail.com  
-🔗 [GitHub](https://github.com/ganesh-mouli976) | [LinkedIn](YOUR_LINKEDIN_LINK)
+🔗 [GitHub](https://github.com/ganesh-mouli976) | [LinkedIn](https://in.linkedin.com/in/janipireddy-ganesh-mouli)
 
 ---
 
 ## Research Interests
 
+-Medical Imaging 
 - Deep Learning
 - Computer Vision
 - EEG Signal Forecasting
